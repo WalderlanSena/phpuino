@@ -1,0 +1,13 @@
+{
+    "name": "mvs/phpuino",
+    "description": "Biblioteca Php para leitura e envio de dados na porta serial do arduino",
+    "type": "library",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Walderlan Sena",
+            "email": "senawalderlan@gmail.com"
+        }
+    ],
+    "require": {}
+}
